@@ -13,7 +13,7 @@ How to use:
 7. Click Execute
 If necessary, you can customize everything via .cfg files.
 Done. Enjoy the game!
-[Download]()
+[Download](https://github.com/Fenix0127/AnimeScriptsExecutor/archive/refs/heads/main.zip)
 
 ![](https://github.com/Fenix0127/AnimeScriptsExecutor/blob/main/photo_2024-06-26_13-34-37.jpg)
 
@@ -32,4 +32,5 @@ RU: AnimeScripts - Это бесплатный инжектор для игры 
 7. Нажмите Execute
 При надобности можете настроить все через файлы .cfg
 Готово. Наслаждайтесь игрой!
+[Скачать](https://github.com/Fenix0127/AnimeScriptsExecutor/archive/refs/heads/main.zip)
 
