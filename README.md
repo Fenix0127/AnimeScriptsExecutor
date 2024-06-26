@@ -15,7 +15,7 @@ If necessary, you can customize everything via .cfg files.
 Done. Enjoy the game!
 [Download]()
 
-(https://github.com/Fenix0127/AnimeScriptsExecutor/blob/main/photo_2024-06-26_13-34-37.jpg)
+![](https://github.com/Fenix0127/AnimeScriptsExecutor/blob/main/photo_2024-06-26_13-34-37.jpg)
 
 RU: AnimeScripts - Это бесплатный инжектор для игры Roblox, который вы можете использовать без каких-либо ограничений. Инжектор работает на платформе Windows (любая версия), используется для внедрения одного или нескольких файлов DLL в любой процесс игры. Отлично подходит для инжекта читов и различного рода скриптов Roblox.
 
