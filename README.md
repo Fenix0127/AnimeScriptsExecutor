@@ -4,7 +4,7 @@ Bypasses the new version of Roblox anti-cheat, current for June-July 2024!
 
 How to use:
 
-1. Run the injector
+1. Run the injector (in main directory (executor.zip) 
 2. Launch the Roblox game and go to the desired server.
 3. Press the "Ins" button.
 4. Click on the "ScriptHub" button
@@ -23,7 +23,7 @@ RU: AnimeScripts - Это бесплатный инжектор для игры 
 
 Как пользоваться:
 
-1. Запустите инжектор
+1. Запустите инжектор (находится в executor.zip)
 2. Запустите игру Роблокс и зайдите на нужный сервер.
 3. Нажмите на кнопку "Ins".
 4. Нажмите на кнопку "ScriptHub"
